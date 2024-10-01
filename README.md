@@ -18,4 +18,5 @@ Aqui, a missão é simples: queremos facilitar a sua vida na hora de escolher o 
 
 🩷**Status:** 
 Em andamento...
+
 ![enter image description here](https://i.imgur.com/LU7sCWg.png)
