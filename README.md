@@ -6,7 +6,7 @@ Desenvolvido para a disciplina de Projeto de Desenvolvimento de Software - Proje
 
 Aqui, a missão é simples: queremos facilitar a sua vida na hora de escolher o próximo filme para maratonar, seja você um cinéfilo veterano ou apenas alguém querendo uma boa indicação. Entre na vibe e venha compartilhar suas opiniões, de maneira rápida e leve, porque no Moovie, a palavra final é sua – com um toque de "moo"!
 
-💻**Tecnologias:**
+💻 **Tecnologias:**
 
 [Typescript](https://www.typescriptlang.org/)
 - Versão 5.6.2
@@ -14,9 +14,20 @@ Aqui, a missão é simples: queremos facilitar a sua vida na hora de escolher o 
 [React](https://react.dev/)
 - Versão 18.2.0
 
-🤝**Time:** [Eduarda Interaminense](https://github.com/hodeaven) & [Carlos Emmanuel](https://github.com/carlosemmanueldev).
 
-🩷**Status:** 
-Em andamento...
+📄 **Documentação**
 
-![enter image description here](https://i.imgur.com/LU7sCWg.png)
+- [TAP - Termo de Abertura do Projeto](https://docs.google.com/document/d/1lVQqhjq-cl6i5v0ukWfUHbYzI-AIjCXJPYVw1qNxDZ8/edit?usp=sharing)
+- [Plano de Projeto](https://docs.google.com/document/d/18Im7MB38K2nT3fLtGt-MSjApviPGOJ9p/edit?usp=sharing&ouid=106753037854466936119&rtpof=true&sd=true)
+- [Estudo de viabilidade](https://docs.google.com/document/d/13dKFB_AMuqkUAFkC2f3AP97yfaGeQGU5/edit?usp=sharing&ouid=106753037854466936119&rtpof=true&sd=true)
+- [Pitch]()
+- [Vídeo demonstrativo]()
+
+
+🤝 **Time:** [Eduarda Interaminense](https://github.com/hodeaven) & [Carlos Emmanuel](https://github.com/carlosemmanueldev).
+
+![enter image description here](https://i.imgur.com/sL7dAYU.png) **Status:** 
+
+
+Carregando...  A vaquinha está meditando e alinhando os chakras. Respira fundo, o **Moovie** tá quase pronto...
+![enter image description here](https://i.imgur.com/teEM4Ot.png)
