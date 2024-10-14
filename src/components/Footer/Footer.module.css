@@ -1,0 +1,36 @@
+footer {
+    background-image: url("../../assets/images/vaca-2.png");
+    justify-content: center;
+    display: flex;
+}
+
+.grid {
+    display: grid;
+    justify-items: center;
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(32px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 30%;
+    row-gap: 20px;
+    box-shadow: 0px 2.84px 23.43px -2.84px rgba(0, 0, 0, 0.2);
+    color: var(--neutral-700);
+}
+
+.grid-item {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: var(--neutral-700);
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+}
+
+li {
+    list-style-type: none;
+}
