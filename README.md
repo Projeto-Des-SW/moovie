@@ -22,11 +22,11 @@ Aqui, a missão é simples: queremos facilitar a sua vida na hora de escolher o 
 - [Estudo de viabilidade](https://docs.google.com/document/d/13dKFB_AMuqkUAFkC2f3AP97yfaGeQGU5/edit?usp=sharing&ouid=106753037854466936119&rtpof=true&sd=true)
 - [Histórias de Usuário](https://docs.google.com/document/d/1qwRYtiHcuZEBSfrOoiJzCDMsjAAeQ3-NhBzVFDSTfxY/edit?usp=sharing)
 - [Project](https://github.com/orgs/Projeto-Des-SW/projects/26/views/1)
-- [Pitch]()
+- [Pitch](https://www.canva.com/design/DAGScjgKbWc/KAV6bRJoya2ocOhj6YhdLQ/watch?utm_content=DAGScjgKbWc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 🤝 **Time:** [Eduarda Interaminense](https://github.com/hodeaven) & [Carlos Emmanuel](https://github.com/carlosemmanueldev).
 
 ![enter image description here](https://i.imgur.com/sL7dAYU.png)  **Status:**  Carregando...  A vaquinha está meditando e alinhando os chakras. Respira fundo, o **Moovie** tá quase pronto...
 ![enter image description here](https://i.imgur.com/y3i0zEs.png)
 
-Enquanto isso, ouça nossa [música](https://drive.google.com/file/d/1vSYXyGS6cUadIkYd6mG3ZJS4tAjb4n0D/view?usp=sharing) e entre no clima do Moovie 🎵
+Enquanto isso, ouça nossa [música](https://www.canva.com/design/DAGTkbLydho/H6m0xa5a00rglnS_axgjrw/watch?utm_content=DAGTkbLydho&utm_campaign=designshare&utm_medium=link&utm_source=editor) e entre no clima do Moovie 🎵
