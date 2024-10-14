@@ -1,0 +1,8 @@
+.carousel {
+    background-color: var(--neutral-600);
+    gap: 56px;
+    display: flex;
+    flex-direction: column;
+    padding-block-end: 56px;
+
+}
