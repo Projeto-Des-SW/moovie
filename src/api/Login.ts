@@ -1,8 +1,6 @@
 import api from "./main";
 import {ApiErrorHandler} from "../utils/ApiErrorHandler.ts";
 
-const apiKey = import.meta.env.VITE_API_KEY;
-
 export async function requestToken() {
     try {
         const response = await api.get('/authentication/token/new');
@@ -29,7 +27,11 @@ export async function createSession(request_token: string) {
 
 export async function getAccountID(session_id: string) {
     try {
-        const response = await api.get(`/account?${apiKey}&session_id=${session_id}`);
+        const response = await api.get(`/account`, {
+            params: {
+                session_id: session_id
+            }
+        });
         const resData = response.data;
         const {id} = resData;
         return id;

@@ -3,6 +3,8 @@ import {useDispatch, useSelector} from "react-redux";
 import {RootState} from "../../store";
 import React, {useRef, useState} from "react";
 import {sessionActions} from "../../store/session.ts";
+import {Link} from "react-router-dom";
+import profileImageDefault from '../../assets/images/profile-image-default.png';
 
 function ProfileIcon() {
     const profileImageUrl: string = useSelector((state: RootState) => state.session.avatar_path!);
@@ -28,7 +30,7 @@ function ProfileIcon() {
         >
             <div className={styles['profile-icon']}>
                 <img
-                    src={`${import.meta.env.VITE_IMG}${profileImageUrl}`}
+                    src={profileImageUrl != 'default-avatar' ? import.meta.env.VITE_IMG + profileImageUrl : profileImageDefault}
                     alt="Avatar"
                     className={styles['profile-image']}
                     onClick={() => setOpen(!open)}
@@ -41,10 +43,10 @@ function ProfileIcon() {
                      tabIndex={-1}
                 >
                     <ul className={styles['dropdown-menu']}>
-                        <li><a href="/ratedmovies">Filmes Avaliados</a></li>
-                        <li><a href="/ratedtvshows">Séries Avaliadas</a></li>
-                        <li><a href="/ratedepisodes">Episódios Avaliados</a></li>
-                        <li><a onClick={handleLogout} href="/">Sair</a></li>
+                        <li><Link to="/ratedmovies">Filmes Avaliados</Link></li>
+                        <li><Link to="/ratedtvshows">Séries Avaliadas</Link></li>
+                        <li><Link to="/ratedepisodes">Episódios Avaliados</Link></li>
+                        <li><Link onClick={handleLogout} to="/">Sair</Link></li>
                     </ul>
                 </div>
             }
