@@ -23,7 +23,7 @@ footer {
     display: flex;
     text-align: center;
     justify-content: center;
-    color: var(--neutral-700);
+    color: var(--accent);
 }
 
 ul {

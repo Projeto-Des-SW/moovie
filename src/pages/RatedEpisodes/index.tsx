@@ -52,6 +52,7 @@ function RatedEpisodes() {
                 <p className={`body-large ` + classes['infos-p']}>Todos os episódios que você acha que merecem uma nota</p>
             </div>
 
+            { ratedEpisodes.length != 0 &&
             <div className={styles['rated-episodes-list-container']}>
                 <MediaVisualizer props={ratedEpisodes}/>
 
@@ -60,7 +61,7 @@ function RatedEpisodes() {
                         Carregar mais
                     </ButtonLoadMore>
                 )}
-            </div>
+            </div>}
         </div>
     );
 }

@@ -20,14 +20,12 @@ Aqui, a missão é simples: queremos facilitar a sua vida na hora de escolher o 
 - [TAP - Termo de Abertura do Projeto](https://docs.google.com/document/d/1lVQqhjq-cl6i5v0ukWfUHbYzI-AIjCXJPYVw1qNxDZ8/edit?usp=sharing)
 - [Plano de Projeto](https://docs.google.com/document/d/18Im7MB38K2nT3fLtGt-MSjApviPGOJ9p/edit?usp=sharing&ouid=106753037854466936119&rtpof=true&sd=true)
 - [Estudo de viabilidade](https://docs.google.com/document/d/13dKFB_AMuqkUAFkC2f3AP97yfaGeQGU5/edit?usp=sharing&ouid=106753037854466936119&rtpof=true&sd=true)
+- [Histórias de Usuário](https://docs.google.com/document/d/1qwRYtiHcuZEBSfrOoiJzCDMsjAAeQ3-NhBzVFDSTfxY/edit?usp=sharing)
 - [Pitch]()
-- [Vídeo demonstrativo]()
-
 
 🤝 **Time:** [Eduarda Interaminense](https://github.com/hodeaven) & [Carlos Emmanuel](https://github.com/carlosemmanueldev).
 
-![enter image description here](https://i.imgur.com/sL7dAYU.png) **Status:** 
+![enter image description here](https://i.imgur.com/sL7dAYU.png)  **Status:**  Carregando...  A vaquinha está meditando e alinhando os chakras. Respira fundo, o **Moovie** tá quase pronto...
+![enter image description here](https://i.imgur.com/y3i0zEs.png)
 
-
-Carregando...  A vaquinha está meditando e alinhando os chakras. Respira fundo, o **Moovie** tá quase pronto...
-![enter image description here](https://i.imgur.com/teEM4Ot.png)
+Enquanto isso, ouça nossa [música](https://drive.google.com/file/d/1vSYXyGS6cUadIkYd6mG3ZJS4tAjb4n0D/view?usp=sharing) e entre no clima do Moovie 🎵
