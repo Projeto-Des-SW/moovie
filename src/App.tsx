@@ -30,7 +30,6 @@ function App() {
                     <Route path="/tvshow/:id/season/:season_number" element={<PrivateRoute component={Season}/>}/>
                     <Route path="/movies" element={<PrivateRoute component={Movies}/>}/>
                     <Route path="/movie/:id" element={<PrivateRoute component={Movie}/>}/>
-                    <Route path="/collections" element={<PrivateRoute component={Collections}/>}/>
                     <Route path="/search" element={<PrivateRoute component={Search}/>}/>
                     <Route path="/mylist" element={<PrivateRoute component={MyList}/>}/>
                     <Route path="/ratedmovies" element={<PrivateRoute component={RatedMovies}/>}/>
