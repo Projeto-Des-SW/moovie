@@ -1,0 +1,62 @@
+.profile-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    cursor: pointer;
+}
+
+.profile-icon {
+    position: relative;
+}
+
+.profile-image {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 2px solid var(--secondary-200);
+}
+
+.dropdown {
+    position: absolute;
+    background-color: #1c1c23;
+    color: #fff;
+    min-width: 48px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 8px;
+    padding: 10px 0;
+    top: 78px;
+    width: 200px;
+    right: 30px;
+}
+
+.dropdown::before {
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: 87%;
+    transform: translateX(-50%);
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #1c1c23;
+}
+
+.dropdown-menu a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.dropdown-menu {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-inline-start: 15px;
+}
+
+.dropdown-menu li:hover a {
+    color: var(--primary-100);
+    transition: color 0.5s;
+}
+
