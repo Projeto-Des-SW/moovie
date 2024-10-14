@@ -10,14 +10,16 @@ import {RatedEpisodeResponse, RatedMovieResponse, RatedTvShowResponse} from "../
 
 export async function manageFavorite(account_id: string, media_type: string, media_id: number, favorite: boolean, session_id: string) {
     try {
-        const response = await apiDefault.post(`/account/${account_id}/favorite`, {
-            media_type: media_type,
-            media_id: media_id,
-            favorite: favorite,
-            params: {
-                session_id: session_id,
+        const response = await apiDefault.post(`/account/${account_id}/favorite`,
+            {
+                media_type: media_type,
+                media_id: media_id,
+                favorite: favorite
+            },
+            {
+                params: {session_id: session_id}
             }
-        });
+        );
 
         return response.data;
     } catch (error) {
@@ -27,14 +29,16 @@ export async function manageFavorite(account_id: string, media_type: string, med
 
 export async function manageToWatchList(account_id: string, media_type: string, media_id: number, watchlist: boolean, session_id: string) {
     try {
-        const response = await apiDefault.post(`/account/${account_id}/watchlist`, {
+        const response = await apiDefault.post(`/account/${account_id}/watchlist`,
+        {
             media_type: media_type,
             media_id: media_id,
-            watchlist: watchlist,
-            params: {
-                session_id: session_id,
-            }
-        });
+            watchlist: watchlist
+        },
+        {
+            params: {session_id: session_id}
+        }
+    );
 
         return response.data;
     } catch (error) {
@@ -89,7 +93,7 @@ export async function getAccountDetails(account_id: string, session_id: string) 
 
 export async function getRatedMovies(account_id: string, session_id: string, page: number = 1, language: string = 'pt-BR') {
     try {
-        const response = await apiDefault.get<RatedMovieResponse>(`/account/${account_id}/rated/movies`, {
+        const response = await api.get<RatedMovieResponse>(`/account/${account_id}/rated/movies`, {
             params: {
                 language: language,
                 page: page,
