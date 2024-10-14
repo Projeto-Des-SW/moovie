@@ -25,10 +25,7 @@ Aqui, a missão é simples: queremos facilitar a sua vida na hora de escolher o 
 
 🤝 **Time:** [Eduarda Interaminense](https://github.com/hodeaven) & [Carlos Emmanuel](https://github.com/carlosemmanueldev).
 
-![enter image description here](https://i.imgur.com/sL7dAYU.png) **Status:** 
-
-
-Carregando...  A vaquinha está meditando e alinhando os chakras. Respira fundo, o **Moovie** tá quase pronto...
-![enter image description here](https://i.imgur.com/teEM4Ot.png)
+![enter image description here](https://i.imgur.com/sL7dAYU.png)  **Status:**  Carregando...  A vaquinha está meditando e alinhando os chakras. Respira fundo, o **Moovie** tá quase pronto...
+![enter image description here](https://i.imgur.com/y3i0zEs.png)
 
 Enquanto isso, ouça nossa [música](https://drive.google.com/file/d/1vSYXyGS6cUadIkYd6mG3ZJS4tAjb4n0D/view?usp=sharing) e entre no clima do Moovie 🎵
