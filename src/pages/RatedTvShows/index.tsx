@@ -52,15 +52,17 @@ function RatedTvShows() {
                 <p className={`body-large ` + classes['infos-p']}>Todos as séries que você acha que merecem uma nota</p>
             </div>
 
-            <div className={styles['rated-tv-shows-list-container']}>
-                <MediaVisualizer props={ratedTvShows}/>
+            {ratedTvShows.length != 0 &&
+                <div className={styles['rated-tv-shows-list-container']}>
+                    <MediaVisualizer props={ratedTvShows}/>
 
-                {hasMorePages && !loading && (
-                    <ButtonLoadMore onClick={loadMore}>
-                        Carregar mais
-                    </ButtonLoadMore>
-                )}
-            </div>
+                    {hasMorePages && !loading && (
+                        <ButtonLoadMore onClick={loadMore}>
+                            Carregar mais
+                        </ButtonLoadMore>
+                    )}
+                </div>
+            }
         </div>
     );
 }
