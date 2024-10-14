@@ -1,0 +1,14 @@
+.link {
+    display: flex;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: #fff;
+    padding: 0 1rem;
+    transition: color 0.5s;
+}
+
+.link:hover {
+    color: var(--secondary-200);
+}
