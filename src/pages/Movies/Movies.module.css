@@ -1,0 +1,15 @@
+.title {
+    display: flex;
+    gap: 16px;
+    color: var(--neutral-100);
+    margin-inline-start: 80px;
+    margin-block-start: 30px;
+}
+
+.carousel {
+    background-color: var(--neutral-600);
+    gap: 56px;
+    display: flex;
+    flex-direction: column;
+    padding-block-end: 56px;
+}
