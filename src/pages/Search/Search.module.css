@@ -1,0 +1,26 @@
+.search-page {
+    background-color: var(--neutral-600);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.search-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    gap: 40px;
+}
+
+.search-item-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 16px;
+    width: 80%;
+    align-self: center;
+}
+
+.search-not-found {
+    text-align: center;
+}
