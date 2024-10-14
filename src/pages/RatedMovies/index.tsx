@@ -53,15 +53,17 @@ function RatedMovies() {
                 <p className={`body-large ` + classes['infos-p']}>Todos os filmes que você acha que merecem uma nota</p>
             </div>
 
-            <div className={styles['rated-movies-list-container']}>
-                <MediaVisualizer props={ratedMovies}/>
+            {ratedMovies.length != 0 &&
+                <div className={styles['rated-movies-list-container']}>
+                    <MediaVisualizer props={ratedMovies}/>
 
-                {hasMorePages && !loading && (
-                    <ButtonLoadMore onClick={loadMore}>
-                        Carregar mais
-                    </ButtonLoadMore>
-                )}
-            </div>
+                    {hasMorePages && !loading && (
+                        <ButtonLoadMore onClick={loadMore}>
+                            Carregar mais
+                        </ButtonLoadMore>
+                    )}
+                </div>
+            }
         </div>
     );
 }
