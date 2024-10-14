@@ -1,0 +1,29 @@
+.episodes-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 95%;
+}
+
+.infos {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.rating-infos {
+    padding-block-start: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.episode-air-date {
+    display: flex;
+    color: var(--neutral-300);
+    font-size: 14px;
+}
+
+.rating-general {
+    display: flex;
+    align-items: center;
+}
