@@ -1,0 +1,13 @@
+.rated-episodes-container {
+    background-color: var(--neutral-600);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.rated-episodes-list-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-block-end: 56px;
+}
