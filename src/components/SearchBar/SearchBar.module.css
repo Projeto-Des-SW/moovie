@@ -1,0 +1,32 @@
+.search-bar-container {
+    display: flex;
+    align-items: center;
+    background-color: var(--neutral-600); /* Fundo escuro */
+    padding: 10px;
+    border-radius: 5px;
+    max-width: 1000px;
+    width: 100%;
+    box-sizing: border-box;
+    align-self: center;
+    margin: 0 auto;
+}
+
+.search-bar-input {
+    flex-grow: 1;
+    border: none;
+    border-bottom: 1px solid var(--neutral-400);
+    background-color: transparent;
+    color: var(--accent);
+    padding: 5px 10px;
+    outline: none;
+    font-size: 32px;
+
+}
+
+.search-bar-input::placeholder {
+    color: var(--neutral-300);
+}
+
+.search-bar-input:focus {
+    border-color: var(--primary-100);
+}

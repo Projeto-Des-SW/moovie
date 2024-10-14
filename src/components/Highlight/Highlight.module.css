@@ -1,0 +1,22 @@
+.section-highlight {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    width: 60%;
+    margin-inline-start: 80px;
+    margin-block-start: 200px;
+}
+
+.actions {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: var(--neutral-100);
+    gap: 5px;
+}
