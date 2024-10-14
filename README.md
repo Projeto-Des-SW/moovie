@@ -21,6 +21,7 @@ Aqui, a missão é simples: queremos facilitar a sua vida na hora de escolher o 
 - [Plano de Projeto](https://docs.google.com/document/d/18Im7MB38K2nT3fLtGt-MSjApviPGOJ9p/edit?usp=sharing&ouid=106753037854466936119&rtpof=true&sd=true)
 - [Estudo de viabilidade](https://docs.google.com/document/d/13dKFB_AMuqkUAFkC2f3AP97yfaGeQGU5/edit?usp=sharing&ouid=106753037854466936119&rtpof=true&sd=true)
 - [Histórias de Usuário](https://docs.google.com/document/d/1qwRYtiHcuZEBSfrOoiJzCDMsjAAeQ3-NhBzVFDSTfxY/edit?usp=sharing)
+- [Project](https://github.com/orgs/Projeto-Des-SW/projects/26/views/1)
 - [Pitch]()
 
 🤝 **Time:** [Eduarda Interaminense](https://github.com/hodeaven) & [Carlos Emmanuel](https://github.com/carlosemmanueldev).
